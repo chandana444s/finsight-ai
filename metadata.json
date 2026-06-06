@@ -1,0 +1,6 @@
+{
+  "name": "FinSight AI",
+  "description": "An AI-powered financial intelligence dashboard that enables transaction scanning, spending analysis, budgeting, and interactive chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
